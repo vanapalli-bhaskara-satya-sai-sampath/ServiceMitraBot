@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/*.json
+data/
+temp/
+*.mp3
+*.ogg

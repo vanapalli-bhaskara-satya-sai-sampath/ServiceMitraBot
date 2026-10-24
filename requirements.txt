@@ -1,0 +1,7 @@
+python-telegram-bot>=21.0
+google-genai
+python-dotenv
+requests
+beautifulsoup4
+playwright
+mcp==1.10.0
